@@ -1,75 +1,68 @@
 ﻿README
 
-Equipo HACKATRONICS
+HACKATRONICS
 
-Proyecto desarrollado por:
+Develop by:
 Luis Emiliano Navarro González
 Kaléin Mondragón Tamaríz
+Emanuel Rendon Veloz
 Jorge Limón Merlo
 Ilan Ayala Morales
-Fernando David Hernandez Espinoza
 
-Nombre del proyecto: Axolotl Preserve
+Project: Axolotl Preserve
 
-Objetivo: Desarrollar un sistema integral para el rastreo y protección de los ajolotes mexicanos usando la tecnología de Block-chain.
+TAGLINE
 
-El sistema esta compuesto de los siguientes elementos:
+Decentralized financial ecosystem that focuses on axolotl preservation and environmental 
+sustainability. It combines blockchain technology with financial solutions to create a 
+secure system.
 
-1. Dispositivos de rastreo:
+PROBLEM IT SOLVES
 
-    Se colocarían dispositivos de rastreo por GPS o RFID en una muestra representativa de ajolotes en su hábitat natural.
-    Los dispositivos recopilarían datos sobre la ubicación, y los movimientos de individuos seleccionados de distintas poblaciones.
+Axolotl Finance is a decentralized finance (DeFi) platform that aims to promote the 
+conservation of axolotls. The platform will do this by:
+* Allocating all profits to habitat protection and restoration projects.
+* Educating the public about the importance of axolotls and biodiversity.
+* Fostering innovation in the DeFi space by combining finance and conservation.
 
-2. Red de sensores:
+The platform will also feature a tracking and certification system that will help to:
+* Raise funds to continue conservation work in the Axolotl sanctuary.
+* Ensure the sustainability of the breeding and reproduction of axolotls.
 
-    Se instalaría una red de sensores en los canales de Xochimilco para recopilar datos sobre la presión atmosférica, 
-    la temperatura, salinidad del agua, fosfatos en el agua y el ph del agua.
+Axolotl Finance will be a valuable tool for anyone who is interested in supporting the 
+conservation of axolotls. The platform will make it easy for people to get involved in 
+conservation efforts and to learn more about these amazing creatures.
 
-3. Base de datos blockchain:
+Here are some of the benefits of using Axolotl Finance:
+* You can support the conservation of axolotls by purchasing NFTs or tokens.
+* You can learn more about axolotls and the importance of biodiversity.
+* You can participate in a community of people who are passionate about conservation.
 
-    Los datos recopilados por los dispositivos de rastreo y la red de sensores se almacenarían en una base de datos blockchain segura e inmutable.
+Axolotl Finance is a new and innovative platform that has the potential to make a real 
+difference in the conservation of axolotls. If you are interested in supporting this 
+important work, I encourage you to learn more about Axolotl Finance.
 
-4. Plataforma de análisis:
+Here are some of the ways that Axolotl Finance can be used:
+* *Conservationists* can use Axolotl Finance to raise funds for conservation projects.
+* *Educators* can use Axolotl Finance to teach students about axolotls and the importance 
+of biodiversity.
+* *Investors* can use Axolotl Finance to invest in projects that are working to conserve 
+axolotls.
 
-    Se desarrollaría una plataforma de análisis para visualizar y analizar los datos recopilados.
-    La plataforma permitiría a los científicos, gestores de recursos naturales y público en general identificar patrones de comportamiento,
-    amenazas a las poblaciones de ajolotes y áreas de mayor riesgo, asi como las condiciones ideales para su desarrollo, reproducción y crianza.
+CHALLENGES
 
-Beneficios:
+Internet Computer Protocol (ICP) requires a Linux environment, such as Ubuntu, to perform 
+and set up services and connections to its smart contracts. This can be achieved through 
+the use of a virtual machine within the device or by activating the Linux subsystem for 
+Windows (WSL v 2.0). The Linux subsystem for Windows allows developers to run a Linux distribution 
+alongside their Windows OS, providing a seamless integration between Windows and Linux 
+environments. This setup is particularly beneficial for blockchain development, as it 
+enables the use of Linux-based tools and frameworks without needing to switch between 
+operating systems.
 
-    Mejora de la gestión ambiental: El sistema proporcionaría información precisa sobre las poblaciones de ajolotes y su hábitat, 
-    lo que permitiría a las autoridades tomar medidas informadas para su protección.
-    Identificación de amenazas: El sistema permitiría identificar las amenazas a las poblaciones de ajolotes, como la contaminación, 
-    la pérdida de hábitat y la introducción de especies invasoras.
-    Promoción de la investigación científica: Los datos recopilados por el sistema serían valiosos para la investigación científica 
-    sobre el comportamiento del ajolote, la ecología de Xochimilco y el impacto del cambio climático.
-    Aumento de la transparencia: El uso de blockchain garantizaría la transparencia y la trazabilidad de la información, 
-    lo que permitiría a la población tomar decisiones informadas sobre la protección del ajolote.
-
-Funcionamiento:
-
-    Recogida de datos: Los dispositivos de rastreo y la red de sensores recopilarían datos en tiempo real.
-    Almacenamiento de datos: Los datos se almacenarían en una base de datos blockchain segura e inmutable.
-    Análisis de datos: La plataforma de análisis permitiría a los usuarios visualizar y analizar los datos.
-    Toma de decisiones: Los científicos, gestores de recursos naturales y autoridades utilizarían la información para tomar 
-    decisiones informadas sobre la gestión ambiental y la protección del ajolote.
-
-Posibles aplicaciones:
-
-    Monitoreo de las poblaciones: El sistema podría usarse para monitorear la salud de las poblaciones de ajolotes, incluyendo su tamaño, 
-    distribución y tasa de reproducción.
-    Evaluación del impacto de las medidas de conservación: El sistema podría usarse para evaluar el impacto de las medidas de conservación, 
-    como la restauración del hábitat o la reintroducción de ajolotes en zonas donde han desaparecido.
-    Rastreo del comercio ilegal: El sistema podría usarse para rastrear el comercio ilegal de ajolotes, lo que ayudaría a combatir esta actividad.
-    Educación y sensibilización: La información recopilada por el sistema podría usarse para desarrollar campañas de educación 
-    y sensibilización sobre la importancia del ajolote y su protección.
-
-ICP (Internet Computer Protocol): El proyecto utilizara diferentes metodos para la ejecución de Canisters y el almacenamiento 
-seguro de datos en la red descentralizada de Internet Computer.
-
-Meta del proyecto: 
-
-    Mejorar la comprensión científica sobre el comportamiento y la ecología de los ajolotes mexicanos.
-    Facilitar la toma de decisiones informadas para la conservación y gestión sostenible de la especie.
-    Combatir el tráfico ilegal de ajolotes y promover prácticas comerciales éticas y sostenibles.
-    Fomentar la participación ciudadana en la protección de los ajolotes y su hábitat natural.
+Regarding transaction functions, it's important to note that while they may present bugs, these 
+are areas of ongoing development and improvement within the blockchain community. 
+The deployment of smart contracts involves storing both the back-end and front-end 
+components. The back-end typically handles data processing and storage, while the front-end 
+provides the user interface. This setup allows for a comprehensive development environment 
+that supports the creation, testing, and deployment of decentralized apps (dapps).
