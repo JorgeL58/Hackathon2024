@@ -1,12 +1,5 @@
 # Azle REST API with ckBTC Integration
-
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/adrian-d-hidalgo/azle-api-rest-ckbtc
-```
 
 Go to the project directory
 
@@ -18,11 +11,6 @@ Install dependencies
 
 ```bash
   npm install
-```
-
-```bash
-# only for mac
-codesign -s - .bitcoin/bin/bitcoind
 ```
 
 ```bash
@@ -46,16 +34,11 @@ npm run icp:deploy:local
 Run the following command:
 
 ```bash
-# only for mac
-codesign -s - .bitcoin/bin/bitcoin-cli
-```
-
-```bash
 # Run three times this command, but wait 1 second between each exacution
 npm run btc:mint --address=$ADDRESS
 ```
 
-Wait for 5 around seconds and make a request to `POST /users/:userId/balance`
+Wait for 5 seconds and make a request to `POST /users/:userId/balance`
 
 Then, you can verify the user balance in this endpoint:
 
